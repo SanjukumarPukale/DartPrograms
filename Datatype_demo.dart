@@ -56,7 +56,4 @@ void main(){
 
   //aConstBool=false; This shows erroe because it is constant value we can't change vlaue
 
-  int num=null;
-  print(num);
-
 }
