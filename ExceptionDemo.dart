@@ -26,5 +26,5 @@ finally{
 }
 
 void main(){
-  letVerifyTheValue(10);
+  letVerifyTheValue(0);
 }
