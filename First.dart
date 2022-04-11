@@ -9,9 +9,10 @@ class First{
 }
 
 void main(){
-  First f=new First();
+  First f=First();
   stdout.writeln("Enter employee name:");// Output statement
 //Take input from user
+  
   String name=stdin.readLineSync()!; // Dart 3 there is a feature Added Called Null Safety which is used to guarantee that the input won't Be Null So you need just add a '!' in Your 'stdin.readLineSync()' and You are done Here is The Code :
   //this readLieSync returns String 
   print("Please enter age");
